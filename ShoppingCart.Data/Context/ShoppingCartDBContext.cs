@@ -6,13 +6,13 @@ using System.Text;
 
 namespace ShoppingCart.Data.Context
 {
-    public class ShoppingCartDBContext : DbContext
+    public class ShoppingCartDbContext : DbContext
     {
-        public ShoppingCartDBContext(DbContextOptions options): base(options) 
-        {
+        public ShoppingCartDbContext(DbContextOptions options) : base(options)
+        { }
 
-        }
         public DbSet<Product> Products { get; set; }
+
         public DbSet<Category> Categories { get; set; }
 
 
