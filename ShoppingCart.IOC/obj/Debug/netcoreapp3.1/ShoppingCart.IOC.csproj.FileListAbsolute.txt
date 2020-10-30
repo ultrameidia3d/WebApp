@@ -1,0 +1,12 @@
+C:\Users\marti\source\repos\NewRepo\WebApp\ShoppingCart.IOC\bin\Debug\netcoreapp3.1\ShoppingCart.IOC.deps.json
+C:\Users\marti\source\repos\NewRepo\WebApp\ShoppingCart.IOC\bin\Debug\netcoreapp3.1\ShoppingCart.IOC.runtimeconfig.json
+C:\Users\marti\source\repos\NewRepo\WebApp\ShoppingCart.IOC\bin\Debug\netcoreapp3.1\ShoppingCart.IOC.runtimeconfig.dev.json
+C:\Users\marti\source\repos\NewRepo\WebApp\ShoppingCart.IOC\bin\Debug\netcoreapp3.1\ShoppingCart.IOC.dll
+C:\Users\marti\source\repos\NewRepo\WebApp\ShoppingCart.IOC\bin\Debug\netcoreapp3.1\ShoppingCart.IOC.pdb
+C:\Users\marti\source\repos\NewRepo\WebApp\ShoppingCart.IOC\obj\Debug\netcoreapp3.1\ShoppingCart.IOC.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\NewRepo\WebApp\ShoppingCart.IOC\obj\Debug\netcoreapp3.1\ShoppingCart.IOC.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\NewRepo\WebApp\ShoppingCart.IOC\obj\Debug\netcoreapp3.1\ShoppingCart.IOC.AssemblyInfo.cs
+C:\Users\marti\source\repos\NewRepo\WebApp\ShoppingCart.IOC\obj\Debug\netcoreapp3.1\ShoppingCart.IOC.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\NewRepo\WebApp\ShoppingCart.IOC\obj\Debug\netcoreapp3.1\ShoppingCart.IOC.dll
+C:\Users\marti\source\repos\NewRepo\WebApp\ShoppingCart.IOC\obj\Debug\netcoreapp3.1\ShoppingCart.IOC.pdb
+C:\Users\marti\source\repos\NewRepo\WebApp\ShoppingCart.IOC\obj\Debug\netcoreapp3.1\ShoppingCart.IOC.genruntimeconfig.cache
